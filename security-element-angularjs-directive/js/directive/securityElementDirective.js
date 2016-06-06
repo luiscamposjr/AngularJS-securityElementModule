@@ -10,7 +10,7 @@
  * 
  * Example: 
  * 
- * <li securityElementDirective="{ROLE_ADMIN, ROLE_USER}">
+ * <li security-element="{ROLE_ADMIN, ROLE_USER}">
  * 	Some element from menu
  * </li>
  * 
