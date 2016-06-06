@@ -3,9 +3,9 @@ AngularJS Directive to manage if some element must be rendered or not according 
 
 
 
-  **@author** luiscamposjr
+  **author** luiscamposjr
   
-  **@e-mail** luiscamposjr@gmail.com
+  **e-mail** luiscamposjr@gmail.com
   
   Here I developed this AngularJS Directive to manage if some element must be rendered or not according to the roles of the user. 
   I'm not showing here a complete solution about ROLES management. If you want to see my solution just go to cbfm-spring-angular
